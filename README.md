@@ -1,5 +1,15 @@
 # Curtis Foster
 
+# Education
+Sinclair Community College - Dayton, Ohio
+January 2021 to Present
+
+# Skills 
+* Java
+* C++
+  
+# Certifications
+IT Fundamentals from Sinclair Community College
 <!--
 **curtispfoster/curtispfoster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
