@@ -5,7 +5,15 @@ Hi! I hope you are having good day despite the chaos we live in today. I am a ce
 * Report Work Application
 
 ## Concepts
-
+* Loan Calculator
+* BabyName Generator
+* Corporates in Circle
+* Consecutive Equal Names
+* Credit Card Validator
+* Hello World
+* Investment Value
+* Tax Calculator
+  
 # Education
 Sinclair Community College - Dayton, Ohio
 January 2021 to Present
