@@ -1,10 +1,8 @@
-Hi! I hope you are having good day despite the chaos we live in today. I am a certified IT Fundamentals professional with hands-on experience in C++ and Java. I am passionate about applying my knowledge to real-world challenges and continuously expanding my expertise in software development.
+Hi! I hope you are having a good day despite the chaos we live in today. I am a certified IT Fundamentals professional with hands-on experience in C++ and Java. I am passionate about applying my knowledge to real-world challenges and continuously expanding my expertise in software development.
 
-# Java Experience
-## Projects
-* Report Work Application
+* Currently working on a [Report Work Application] (), and Updating Documentation for my Programming Concepts
 
-## Concepts
+## Programming Concepts
 * Loan Calculator
 * BabyName Generator
 * Corporates in Circle
