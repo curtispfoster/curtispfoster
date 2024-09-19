@@ -1,4 +1,6 @@
 # Curtis Foster
+I hope you are having good day despite the chaos we live in today. I am a certified IT Fundamentals professional with hands-on experience in C++ and Java. I have
+completed several small projects in both languages. I am passionate about applying my knowledge to real-world challenges and continuously expanding my expertise in software development.
 
 # Education
 Sinclair Community College - Dayton, Ohio
