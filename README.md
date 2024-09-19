@@ -4,15 +4,12 @@
 # Java Experience
 ## Projects
 * Report Work Application
+
 ## Concepts
 
 # Education
 Sinclair Community College - Dayton, Ohio
 January 2021 to Present
-
-# Skills 
-* Java
-* C++
   
 # Certifications
 IT Fundamentals from Sinclair Community College
