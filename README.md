@@ -4,21 +4,14 @@ Hi! I hope you are having a good day despite the chaos we live in today. I am a 
 * Updating Documentation for my Programming Concepts
 
 ## [Programming Concepts](https://github.com/curtispfoster/Programming-Concepts)
-* Loan Calculator
-* BabyName Generator
+* Hello World
 * Corporates in Circle
 * Consecutive Equal Names
 * Credit Card Validator
-* Hello World
 * Investment Value
 * Tax Calculator
-  
-# Education
-Sinclair Community College - Dayton, Ohio
-January 2021 to Present
-  
-# Certifications
-IT Fundamentals from Sinclair Community College
+
+
 <!--
 **curtispfoster/curtispfoster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
