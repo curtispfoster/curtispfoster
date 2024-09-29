@@ -1,8 +1,6 @@
 Hi! I hope you are having a good day despite the chaos we live in today. I am a certified IT Fundamentals professional with hands-on experience in C++ and Java. I am passionate about applying my knowledge to real-world challenges and continuously expanding my expertise in software development.
 
-* Currently working on a [Time Reporting Application](https://github.com/curtispfoster/ReportWorkApp)
-
-## Skills:
+## Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
