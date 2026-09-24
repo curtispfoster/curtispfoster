@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" width="880" height="440" role="img" aria-labelledby="t d">
+  <title id="t">Curtis Foster</title>
+  <desc id="d">Curtis Foster's profile drawn as a database schema. The curtis_foster table: based in Dayton, Ohio; languages Java, C++ and SQL; also uses JavaFX, SQLite, React and HTML; certified in IT Fundamentals. Its building row links to HelloApplication, which imports CSV and JSON files of any size, finds how the tables link, and lets users filter and chart with no SQL, built with Java 21, JavaFX and SQLite. Its competed row links to Team 404 at ASA DataFest 2026, where Curtis was lead architect.</desc>
+
+  <style>
+    .name  { font: 400 30px Georgia, 'Times New Roman', serif; fill: #FFFFFF; }
+    .lede  { font: 400 15px 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif; fill: #DCE6F1; }
+    .table { font: 400 15px Georgia, 'Times New Roman', serif; fill: #FFFFFF; }
+    .key   { font: 400 12px 'Cascadia Mono', Consolas, 'SF Mono', Menlo, monospace; fill: #9CB6D3; }
+    .val   { font: 400 13px 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; }
+    .cap   { font: 400 12px 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif; fill: #9CB6D3; }
+    .card  { fill: #24426A; stroke: #9CB6D3; stroke-width: 1; }
+    .head  { fill: #2B4C77; }
+    .rule  { stroke: #3C5D86; stroke-width: 1; }
+    .link  { fill: none; stroke: #9CB6D3; stroke-width: 1.5; }
+  </style>
+
+  <rect width="880" height="440" rx="12" fill="#1F3A5F"/>
+
+  <text class="name" x="40" y="62">Curtis Foster</text>
+  <text class="lede" x="40" y="92">I build tools that make data easier to explore.</text>
+
+  <!-- links drawn first, so the cards sit on top of their ends -->
+  <path class="link" d="M420,293 C462,293 458,141 500,141"/>
+  <path class="link" d="M420,323 C462,323 458,319 500,319"/>
+  <circle cx="420" cy="293" r="3.5" fill="#9CB6D3"/>
+  <circle cx="420" cy="323" r="3.5" fill="#9CB6D3"/>
+
+  <!-- curtis_foster -->
+  <g>
+    <rect class="card" x="40" y="124" width="380" height="214" rx="3"/>
+    <path class="head" d="M43,124.5 h374 a2.5,2.5 0 0 1 2.5,2.5 v31 h-379 v-31 a2.5,2.5 0 0 1 2.5,-2.5z"/>
+    <rect x="40.5" y="278" width="379" height="30" fill="#2F5A8C"/>
+    <line class="rule" x1="41" y1="158.5" x2="419" y2="158.5"/>
+    <line class="rule" x1="41" y1="188.5" x2="419" y2="188.5"/>
+    <line class="rule" x1="41" y1="218.5" x2="419" y2="218.5"/>
+    <line class="rule" x1="41" y1="248.5" x2="419" y2="248.5"/>
+    <line class="rule" x1="41" y1="278.5" x2="419" y2="278.5"/>
+    <line class="rule" x1="41" y1="308.5" x2="419" y2="308.5"/>
+    <text class="table" x="54" y="146">curtis_foster</text>
+    <text class="key" x="54" y="177">based_in</text>  <text class="val" x="146" y="178">Dayton, Ohio</text>
+    <text class="key" x="54" y="207">languages</text> <text class="val" x="146" y="208">Java, C++, SQL</text>
+    <text class="key" x="54" y="237">also_uses</text> <text class="val" x="146" y="238">JavaFX, SQLite, React, HTML</text>
+    <text class="key" x="54" y="267">certified</text> <text class="val" x="146" y="268">IT Fundamentals</text>
+    <text class="key" x="54" y="297">building</text>  <text class="val" x="146" y="298">HelloApplication</text>
+    <text class="key" x="54" y="327">competed</text>  <text class="val" x="146" y="328">DataFest 2026, with Team 404</text>
+  </g>
+
+  <!-- HelloApplication -->
+  <g>
+    <rect class="card" x="500" y="124" width="340" height="154" rx="3"/>
+    <path class="head" d="M503,124.5 h334 a2.5,2.5 0 0 1 2.5,2.5 v31 h-339 v-31 a2.5,2.5 0 0 1 2.5,-2.5z"/>
+    <line class="rule" x1="501" y1="158.5" x2="839" y2="158.5"/>
+    <line class="rule" x1="501" y1="188.5" x2="839" y2="188.5"/>
+    <line class="rule" x1="501" y1="218.5" x2="839" y2="218.5"/>
+    <line class="rule" x1="501" y1="248.5" x2="839" y2="248.5"/>
+    <text class="table" x="514" y="146">HelloApplication</text>
+    <text class="key" x="514" y="177">imports</text> <text class="val" x="584" y="178">CSV and JSON files, any size</text>
+    <text class="key" x="514" y="207">finds</text>   <text class="val" x="584" y="208">how the tables link</text>
+    <text class="key" x="514" y="237">users</text>   <text class="val" x="584" y="238">filter and chart, no SQL</text>
+    <text class="key" x="514" y="267">stack</text>   <text class="val" x="584" y="268">Java 21, JavaFX, SQLite</text>
+  </g>
+
+  <!-- Team 404 -->
+  <g>
+    <rect class="card" x="500" y="302" width="340" height="94" rx="3"/>
+    <path class="head" d="M503,302.5 h334 a2.5,2.5 0 0 1 2.5,2.5 v31 h-339 v-31 a2.5,2.5 0 0 1 2.5,-2.5z"/>
+    <line class="rule" x1="501" y1="336.5" x2="839" y2="336.5"/>
+    <line class="rule" x1="501" y1="366.5" x2="839" y2="366.5"/>
+    <text class="table" x="514" y="324">team_404</text>
+    <text class="key" x="514" y="355">event</text> <text class="val" x="584" y="356">ASA DataFest 2026</text>
+    <text class="key" x="514" y="385">role</text>  <text class="val" x="584" y="386">Lead architect</text>
+  </g>
+
+  <text class="cap" x="40" y="414">Schema of curtis_foster</text>
+</svg>

@@ -1,51 +1,47 @@
-Hi! I hope you are having a good day despite the chaos we live in today. I am a certified IT Fundamentals professional with hands-on experience in C++ and Java. I am passionate about applying my knowledge to real-world challenges and continuously expanding my expertise in software development.
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/schema-narrow.svg">
+  <img src="assets/schema.svg" width="880" alt="Curtis Foster's profile drawn as a database schema: based in Dayton, Ohio; Java, C++ and SQL; building HelloApplication; competed at DataFest 2026 with Team 404.">
+</picture>
 
-## Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+I'm Curtis Foster, a developer in Dayton, Ohio, with hands-on experience in Java and C++ and a
+certification in IT Fundamentals.
 
-## Projects
+**Languages and tools:** Java, C++, SQL, SQLite, JavaFX, Maven, JUnit, HTML, React
 
-### [HelloApplication](https://github.com/curtispfoster/HelloApplication): a Database Manager for data events
+## HelloApplication
 
 At DataFest my team had a big dataset split across linked tables, and most of us only knew MS Access.
-So I built a desktop app where an admin drops in CSV or JSON files, the app **works out how the tables
-connect by itself**, and everyone else explores and charts the data **by pointing and clicking, with no SQL**.
+So I built a desktop app where an admin drops in CSV or JSON files, the app works out how the tables
+connect by itself, and everyone else explores and charts the data by pointing and clicking, with no SQL.
 
-[![HelloApplication: orders joined to customers, filtered and sorted by point and click](https://raw.githubusercontent.com/curtispfoster/HelloApplication/ce741be/documentation/screenshots/home-query.png)](https://github.com/curtispfoster/HelloApplication)
+<a href="https://github.com/curtispfoster/HelloApplication"><img src="https://raw.githubusercontent.com/curtispfoster/HelloApplication/ce741be/documentation/screenshots/home-query.png" width="880" alt="Orders joined to their customers, filtered to Boston and sorted newest first, all by point and click"></a>
+
+<img src="https://raw.githubusercontent.com/curtispfoster/HelloApplication/ce741be/documentation/screenshots/admin-import.png" width="49%" alt="Five CSV files on the import list, ready to become one dataset"> <img src="https://raw.githubusercontent.com/curtispfoster/HelloApplication/ce741be/documentation/screenshots/admin-relationships.png" width="49%" alt="The links the tables share, drawn as a diagram">
 
 - Streams CSV imports of any size (8 million rows in a few minutes) and finds the foreign keys between files
-- Point-and-click filters, linked columns and bar, line, pie and scatter charts, computed by SQLite
-- Argon2id password hashing and a USER / ADMIN / OWNER role hierarchy
-- Java 21 and JavaFX (no FXML) on SQLite, with over 160 JUnit tests
+- Builds each query from the user's clicks, and SQLite computes the bar, line, pie and scatter charts
+- Hashes passwords with Argon2id and guards accounts with a user, admin and owner role hierarchy
+- Written in Java 21 and JavaFX with no FXML, on SQLite, with over 160 JUnit tests
 
-### [Team 404: DataFest 2026](https://github.com/curtispfoster/404)
+[Code, setup and more screenshots](https://github.com/curtispfoster/HelloApplication)
 
-Our team's repository for the 2026 ASA DataFest competition, where I was lead architect.
+## Other work
 
-## [Programming Concepts](https://github.com/curtispfoster/Programming-Concepts) 
-* Hello World
-* Corporates in Circle
-* Consecutive Equal Names
-* Credit Card Validator
-* Investment Value
-* Tax Calculator
+**[Team 404, DataFest 2026](https://github.com/curtispfoster/404).**
+Our team's repository for the ASA DataFest competition, where I was lead architect.
+Analysis in Python and Jupyter.
 
+**[Programming Concepts](https://github.com/curtispfoster/Programming-Concepts).**
+Object-oriented programming exercises in Java.
 
-<!--
-**curtispfoster/curtispfoster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>What's in it</summary>
 
-Here are some ideas to get you started:
+- Hello World
+- Corporates in Circle
+- Consecutive Equal Names
+- Credit Card Validator
+- Investment Value
+- Tax Calculator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
