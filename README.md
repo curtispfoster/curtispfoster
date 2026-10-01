@@ -60,7 +60,7 @@ connect by itself, and everyone else explores and charts the data by pointing an
 - A clay and brushed-metal interface with a lit, animated JavaFX 3D database stack on the sign-in screens
 - Written in Java 21 and JavaFX with no FXML, on SQLite, with over 170 JUnit tests
 
-**[Download for Windows (1.1.0 Beta)](https://github.com/curtispfoster/curtispfoster/releases/latest)** · no Java install needed  
+**[Download for Windows (1.1.0 Beta)](https://github.com/curtispfoster/curtispfoster/releases/latest)** 
 [Report a bug or suggest an idea](https://github.com/curtispfoster/curtispfoster/issues/new/choose)
 
 ## Other work
