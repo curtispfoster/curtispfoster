@@ -50,9 +50,9 @@ At DataFest my team had a big dataset split across linked tables, and most of us
 So I built a desktop app where an admin drops in CSV or JSON files, the app works out how the tables
 connect by itself, and everyone else explores and charts the data by pointing and clicking, with no SQL.
 
-<a href="https://github.com/curtispfoster/DataFestExplorer"><img src="https://raw.githubusercontent.com/curtispfoster/DataFestExplorer/d10d8bf/documentation/screenshots/home-query.png" width="880" alt="Orders joined to their customers, filtered to Boston and sorted newest first, all by point and click"></a>
+<a href="https://github.com/curtispfoster/curtispfoster/releases/latest"><img src="assets/datafest-explorer/home-query.png" width="880" alt="Orders joined to their customers, filtered to Boston and sorted newest first, all by point and click"></a>
 
-<img src="https://raw.githubusercontent.com/curtispfoster/DataFestExplorer/d10d8bf/documentation/screenshots/admin-import.png" width="49%" alt="Five CSV files on the import list, ready to become one dataset"> <img src="https://raw.githubusercontent.com/curtispfoster/DataFestExplorer/d10d8bf/documentation/screenshots/admin-relationships.png" width="49%" alt="The links the tables share, drawn as a diagram">
+<img src="assets/datafest-explorer/admin-import.png" width="49%" alt="Five CSV files on the import list, ready to become one dataset"> <img src="assets/datafest-explorer/admin-relationships.png" width="49%" alt="The links the tables share, drawn as a diagram">
 
 - Streams CSV imports of any size (8 million rows in a few minutes) and finds the foreign keys between files
 - Builds each query from the user's clicks, and SQLite computes the bar, line, pie and scatter charts
@@ -60,7 +60,8 @@ connect by itself, and everyone else explores and charts the data by pointing an
 - A clay and brushed-metal interface with a lit, animated JavaFX 3D database stack on the sign-in screens
 - Written in Java 21 and JavaFX with no FXML, on SQLite, with over 170 JUnit tests
 
-[Code, setup and more screenshots](https://github.com/curtispfoster/DataFestExplorer)
+**[Download for Windows (1.1.0 Beta)](https://github.com/curtispfoster/curtispfoster/releases/latest)** · no Java install needed  
+[Report a bug or suggest an idea](https://github.com/curtispfoster/curtispfoster/issues/new/choose)
 
 ## Other work
 
