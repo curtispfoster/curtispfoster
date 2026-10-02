@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/profile-hero-narrow.png">
-  <img src="assets/profile-hero.png" width="880" alt="Curtis Foster, developer in Dayton, Ohio. I build tools that make data easy to explore. Java, C++ and SQL; IT Fundamentals certified. Now building DataFest Explorer in Java 21, JavaFX 3D and SQLite. DataFest 2026, lead architect for Team 404.">
+  <img src="assets/profile-hero.png" width="880" alt="Curtis Foster, developer in Dayton, Ohio. I build tools that make data easy to explore. Java, C++ and SQL; IT Fundamentals certified. Now building Data Explorer in Java 21, JavaFX 3D and SQLite. DataFest 2026, lead architect for Team 404.">
 </picture>
 
 I'm Curtis Foster, a developer in Dayton, Ohio, with hands-on experience in Java and C++ and a
@@ -44,24 +44,24 @@ certification in IT Fundamentals.
 
 Plus JavaFX (including its 3D API) for desktop apps.
 
-## DataFest Explorer
+## Data Explorer
 
 At DataFest my team had a big dataset split across linked tables, and most of us only knew MS Access.
 So I built a desktop app where an admin drops in CSV or JSON files, the app works out how the tables
 connect by itself, and everyone else explores and charts the data by pointing and clicking, with no SQL.
 
-<a href="https://github.com/curtispfoster/curtispfoster/releases/latest"><img src="assets/datafest-explorer/home-query.png" width="880" alt="Orders joined to their customers, filtered to Boston and sorted newest first, all by point and click"></a>
+<a href="https://github.com/curtispfoster/DataExplorer-releases/releases/latest"><img src="assets/data-explorer/home-query.png" width="880" alt="Orders joined to their customers, filtered to Boston and sorted newest first, all by point and click"></a>
 
-<img src="assets/datafest-explorer/admin-import.png" width="49%" alt="Five CSV files on the import list, ready to become one dataset"> <img src="assets/datafest-explorer/admin-relationships.png" width="49%" alt="The links the tables share, drawn as a diagram">
+<img src="assets/data-explorer/admin-import.png" width="49%" alt="Five CSV files on the import list, ready to become one dataset"> <img src="assets/data-explorer/admin-relationships.png" width="49%" alt="The links the tables share, drawn as a diagram">
 
 - Streams CSV imports of any size (8 million rows in a few minutes) and finds the foreign keys between files
 - Builds each query from the user's clicks, and SQLite computes the bar, line, pie and scatter charts
 - Hashes passwords with Argon2id and guards accounts with a user, admin and owner role hierarchy
 - A clay and brushed-metal interface with a lit, animated JavaFX 3D database stack on the sign-in screens
-- Written in Java 21 and JavaFX with no FXML, on SQLite, with over 170 JUnit tests
+- Written in Java 21 and JavaFX with no FXML, on SQLite, with 182 JUnit tests
 
-**[Download for Windows (1.1.0 Beta)](https://github.com/curtispfoster/curtispfoster/releases/latest)** 
-[Report a bug or suggest an idea](https://github.com/curtispfoster/curtispfoster/issues/new/choose)
+**[Download for Windows (1.2.0)](https://github.com/curtispfoster/DataExplorer-releases/releases/latest)** 
+[Report a bug or suggest an idea](https://github.com/curtispfoster/DataExplorer-releases/issues/new/choose)
 
 ## Other work
 

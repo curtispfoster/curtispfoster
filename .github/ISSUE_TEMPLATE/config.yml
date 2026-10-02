@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Download DataFest Explorer
-    url: https://github.com/curtispfoster/curtispfoster/releases/latest
+  - name: Report a Data Explorer bug or idea
+    url: https://github.com/curtispfoster/DataExplorer-releases/issues/new/choose
+    about: Data Explorer's downloads and bug reports live in its own repo now.
+  - name: Download Data Explorer
+    url: https://github.com/curtispfoster/DataExplorer-releases/releases/latest
     about: Get the latest Windows build and install steps.
